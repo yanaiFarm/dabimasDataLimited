@@ -75,6 +75,13 @@ document.addEventListener("DOMContentLoaded", function (event) {
           },
           { divider: true },
           {
+            name: "グレイソヴリン系",
+            halfName: "ｸﾞﾚｲｿｳﾞﾘﾝ",
+            group: "Nasrullah",
+            groupShort: "Ns",
+            avatar: srcs["Ns"],
+          },
+          {
             name: "ゼダーン系",
             halfName: "ｾﾞﾀﾞｰﾝ",
             group: "Nasrullah",
@@ -241,6 +248,13 @@ document.addEventListener("DOMContentLoaded", function (event) {
           {
             name: "リボー系",
             halfName: "ﾘﾎﾞｰ",
+            group: "St.Simon",
+            groupShort: "St",
+            avatar: srcs["St"],
+          },
+          {
+            name: "ワイルドリスク系",
+            halfName: "ﾜｲﾙﾄﾞﾘｽｸ",
             group: "St.Simon",
             groupShort: "St",
             avatar: srcs["St"],
